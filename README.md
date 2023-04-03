@@ -1,8 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Jhonatan Varas</h1>
-<p align="center">
+<p align="center"> 
 I am a computer engineering student from Argentina, wanting to learn something new every day.   
 </p>
-
 
 <h3>How I'd define myself...literally</h3>
 
@@ -13,6 +12,7 @@ I am a computer engineering student from Argentina, wanting to learn something n
      @age = 18
      @education = [ 'National University of the Matanza' ]
      @hobbies = [ 'Program', 'Video Games', 'Pizza' ]
+     @contact = [ 'jhonatanf.varas@gmail.com' ]
    end
 
    def current_location
